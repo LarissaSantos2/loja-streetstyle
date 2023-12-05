@@ -205,7 +205,8 @@ if (fecharCarrinho) {
 
 function cadastrarNewsletter() {
     // Obter o valor do campo de e-mail
-    var email = document.getElementById("emailInput").value;
+    var emailInput = document.getElementById("emailInput");
+    var email = emailInput.value;
 
     // Validar se o campo de e-mail não está vazio
     if (email.trim() === "") {
@@ -213,6 +214,9 @@ function cadastrarNewsletter() {
     } else {
         // Exibir o alerta de sucesso
         alert("E-mail cadastrado com sucesso!");
+
+        // Limpar o campo de e-mail
+        emailInput.value = "";
     }
 }
 
