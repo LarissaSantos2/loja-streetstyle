@@ -217,7 +217,7 @@ function cadastrarNewsletter() {
 }
 
 
-}
+
 
 // Script para alerta quando usúario enviar mensagem
 
