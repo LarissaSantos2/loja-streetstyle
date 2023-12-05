@@ -216,9 +216,6 @@ function cadastrarNewsletter() {
     }
 }
 
-
-
-
 // Script para alerta quando usúario enviar mensagem
 
 document.getElementById('contatoForm').addEventListener('submit', function () {
