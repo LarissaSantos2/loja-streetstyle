@@ -156,7 +156,7 @@ height: 60px;
 /* Página-Home */
 
 #inicio {
-  background-image: url("../IMG/heroi.png");
+  background-image: url("heroi.png");
   height: 90vh;
   width: 100%;
   background-size: cover;
@@ -449,7 +449,7 @@ height: 60px;
   justify-content: center;
   align-items: center;
   text-align: center;
-  background-image: url("../IMG/bannerhomej.png");
+  background-image: url("bannerhomej.png");
   width: 100%;
   height: 50vh;
   background-size: cover;
@@ -563,7 +563,7 @@ height: 60px;
   flex-direction: column;
   justify-content: center;
   align-items: flex-start;
-  background-image: url("../IMG/banner.jpg");
+  background-image: url("banner.jpg");
   min-width: 580px;
   height: 50vh;
   background-size: cover;
@@ -572,7 +572,7 @@ height: 60px;
 }
 
 #sm-banner .banner-box2 {
-  background-image: url("../IMG/banners.jpg");
+  background-image: url("banners.jpg");
 }
 
 #sm-banner h4 {
@@ -611,7 +611,7 @@ height: 60px;
   flex-direction: column;
   justify-content: center;
   align-items: flex-start;
-  background-image: url("../IMG/ban4.jpg");
+  background-image: url("ban4.jpg");
   min-width: 30%;
   height: 30vh;
   background-size: cover;
@@ -621,11 +621,11 @@ height: 60px;
 }
 
 #banner3 .banner-box2 {
-  background-image: url("../IMG/ban3.jpg");
+  background-image: url("ban3.jpg");
 }
 
 #banner3 .banner-box3 {
-  background-image: url("../IMG/imgbanner.jpg");
+  background-image: url("imgbanner.jpg");
 }
 
 #banner3 h2 {
@@ -743,7 +743,7 @@ footer .follow i{
 /*----------------Página Produtos----------------------*/
 
 #page-header {
-  background-image: url("../IMG/imgp3.jpg");
+  background-image: url("imgp3.jpg");
   width: 100%;
   height: 40vh;
   background-size: cover;
@@ -853,7 +853,7 @@ footer .follow i{
 /*---------------------Página Blog------------------------------*/
 
 #page-header.blog-header {
-  background-image: url("../IMG/ban.jpg");
+  background-image: url("ban.jpg");
 }
 
 #blog {
@@ -922,7 +922,7 @@ footer .follow i{
 
 /*------------------------Página Sobre--------------------------------*/
 #page-header.sobre-header {
-  background-image: url("../IMG/sobre1.jpg");
+  background-image: url("sobre1.jpg");
 }
 
 #sobre-head {
