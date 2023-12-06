@@ -82,8 +82,8 @@ button.normal {
   top: 0;
   right: 0;
   background-color: red; /* Cor de fundo para destacar o número */
-  color: white; /* Cor do texto do número */
-  font-size: 0.3em; /* Tamanho da fonte do número */
+  color: white; 
+  font-size: 0.3em; 
   border-radius: 50%; /* Para tornar o fundo do número circular */
   padding: 3px 6px; /* Espaçamento interno para o número */
 }
