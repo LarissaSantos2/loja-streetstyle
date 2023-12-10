@@ -358,7 +358,7 @@ body {
 }
 
 #destaque .de-box:hover {
-  box-shadow: 10px 10px 54px rgba(90, 86, 86, 0.4);
+  box-shadow: 10px 10px 54px rgba(90, 86, 86, 0.6);
 }
 
 #destaque .de-box img {
